@@ -7,4 +7,12 @@ Including
  - Recursion
  - Stack
  - Queue
- - Linked list
+ - Linked List
+ - Tree
+ - Binary Search Tree
+ - AVL Search Tree
+ - Heaps
+ - Multiway Trees(B tree)
+ - Graphs
+ - Sorting
+ - Searching
