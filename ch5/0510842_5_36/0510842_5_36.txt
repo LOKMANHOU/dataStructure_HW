@@ -1,0 +1,20 @@
+New York-No.NU|21199865|19549649
+Los Angeles area|16373645|14531529
+Chicago area|9157540|8239820
+Wasgington-Baltimore|7608070|6727050
+San Francisco area|7039362|6253311
+Philadelphia-Atlantic City area|6188463|5892937
+Boston area|5819100|5455403
+Detroit area|5456428|5187171
+Dallas-Fort Worth|5221801|4037282
+Houston-Galveston area|4669571|3731131
+Atlanta area|4112198|2959950
+Miami-Fort Lauderdale|3876380|3192582
+Seattle area|3554760|2970328
+Phoenix area|3251876|2238480
+Minineapolis-St.Paul|2968806|2538834
+Cleveland area|2495831|2859644
+San Diego area|2813833|2498016
+St. Louis area|2603607|2492525
+Debver area|2581506|1980140
+San Juan,PR,area|2450292|2270808
